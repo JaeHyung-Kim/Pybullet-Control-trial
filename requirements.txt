@@ -1,0 +1,17 @@
+attrs==19.3.0
+gym==0.17.1
+numpy==1.17.3
+pybullet==3.1.7
+pybulletgym==0.1.0
+tensorflow==1.15.4
+tensorboard==1.15.0
+typing==3.7.4.1
+stable-baselines==2.10.0
+tqdm
+numba
+quadprog
+inputs
+ffmpeg
+freeglut3-dev
+xvfb
+stable-baselines3[extra]
