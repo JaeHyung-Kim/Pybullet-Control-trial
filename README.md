@@ -2,14 +2,14 @@
 studying how to control robot in pybullet :D
 
 
-#IK_PD
+## IK_PD
 with p.setJointMotorControl2 in pybullet, by using PD Control, it is able to control 2 link by calculate Inverse Kinematics manually.
 
 
 <img width="40%" src="https://user-images.githubusercontent.com/72867850/154547113-3ec3a632-3a7e-48b3-999c-f9b013fcb62f.gif"/>
 
 
-#Jacobian_Implement
+## Jacobian_Implement
 without using PD Control function in pybullet, by calculate Jacobian manually, it is also able to control 2 link and baxter robot.
 
 
@@ -20,7 +20,7 @@ It's almost same between implemented function and manually implemented one.
 <img width="40%" src="https://user-images.githubusercontent.com/72867850/154547421-23cf7eec-7b2b-4cdc-8572-38db9b337aae.gif"/>
 
 
-#IK_laikago
+## IK_laikago
 apply IK and PD function to the four-legged robot laikago
 
 
@@ -28,7 +28,7 @@ apply IK and PD function to the four-legged robot laikago
 
 
 
-#PPO_Ant
+## PPO_Ant
 control environment Ant in mujoco with PPO from baseline.
 
 
